@@ -3,7 +3,7 @@
   "homepage": "https://kaydeetech.github.io/think-fast/",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "type": "module", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
